@@ -1,0 +1,5 @@
+Backend/Datasets/Cleaned/*
+!Backend/Datasets/Cleaned/.gitkeep
+Backend/Datasets/RAW/*
+!Backend/Datasets/RAW/.gitkeep
+!Backend/Datasets/Dataset link.txt
